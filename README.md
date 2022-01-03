@@ -1,3 +1,4 @@
 # dogs_near_by
 # description
-Porject to help people who are scared of dogs
+# Project to help people who are scared of dogs
+# ideas welcomed at this stage, but think an app to know if dogs are close by
